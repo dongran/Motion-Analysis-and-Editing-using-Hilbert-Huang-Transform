@@ -4,7 +4,9 @@ Dance motion analysis and editing using hilbert-huang transform
 hhtmotion.m is the main script for matlab.
 A sample for Japanese dance group Perfume dance decompositions.
 
-A sample Video 
+
+A sample Video
+
 https://www.youtube.com/watch?v=FnSAk5_dtdk
 
 
