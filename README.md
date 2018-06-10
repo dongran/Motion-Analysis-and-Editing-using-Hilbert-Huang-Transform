@@ -1,5 +1,5 @@
-# hhtmotion
-Dance motion analysis and editing using hilbert-huang transform
+# Dance motion analysis and editing using hilbert-huang transform
+
 
 
 hhtmotion.m is the main script for matlab.
