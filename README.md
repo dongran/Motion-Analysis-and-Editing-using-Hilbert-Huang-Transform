@@ -10,9 +10,6 @@ A sample Video
 
 https://www.youtube.com/watch?v=FnSAk5_dtdk
 
-Dance motion analysis and editing using hilbert-huang transform (SIGGRAPH 2017 Talks)
-
-https://www.youtube.com/watch?v=9MOCXZK-Ld4
 
 
 Publications
